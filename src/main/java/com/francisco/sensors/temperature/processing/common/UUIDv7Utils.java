@@ -1,4 +1,4 @@
-package com.francisco.sensors.temperature.processing;
+package com.francisco.sensors.temperature.processing.common;
 
 import java.time.Instant;
 import java.time.OffsetDateTime;

@@ -1,4 +1,4 @@
-package com.francisco.sensors.temperature.processing;
+package com.francisco.sensors.temperature.processing.common;
 
 import com.fasterxml.uuid.Generators;
 import com.fasterxml.uuid.impl.TimeBasedEpochRandomGenerator;

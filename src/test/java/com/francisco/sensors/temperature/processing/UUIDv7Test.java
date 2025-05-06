@@ -1,5 +1,7 @@
 package com.francisco.sensors.temperature.processing;
 
+import com.francisco.sensors.temperature.processing.common.IdGenerator;
+import com.francisco.sensors.temperature.processing.common.UUIDv7Utils;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
